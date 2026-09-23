@@ -1,0 +1,135 @@
+﻿# EOS Data Analytics
+
+
+> EOS Data Analytics (EOSDA) is a global provider of satellite analytics solutions in agriculture and forestry. 
+
+
+EOS Data Analytics offers a diverse portfolio of products, including EOSDA Crop Monitoring and EOSDA LandViewer. These ready-made platforms integrate extensive satellite imagery with advanced analytical tools developed by our R&D team to support data-driven decision-making across agriculture, urban planning, forestry, and other industries. In addition to tailored solutions such as crop classification, field boundary detection, and yield prediction, EOSDA can also develop custom solutions based on specific client needs not covered by the standard offerings.
+
+
+## Products
+
+
+- [EOSDA Crop Monitoring](https://eos.com/products/crop-monitoring/): Digital agriculture platform to monitor crop health remotely with satellite images, get comprehensive crop analytics, get notified about crop risks, and optimize resource usage.
+- [EOSDA Landviewer](https://eos.com/products/landviewer/): An online platform designed to access the latest satellite imagery, visualize up-to-date satellite data, monitor and compare changes over time using a vast archive of historical images, and process multispectral and radar data directly in the browser.
+- [EOSDA API Connect](https://eos.com/products/crop-monitoring/satellite-data-api/): API solution for developers to get fast and easy access to raw and processed satellite data.
+- [EOSDA Carbon](https://eos.com/carbon/): This carbon solution combines satellite monitoring, machine learning, and extensive predictive data to assess soil organic carbon across large areas, enabling smarter planning, verification, and reporting of carbon sequestration.
+
+
+## EOSDA Crop Monitoring
+
+
+> The [EOSDA Crop Monitoring platform](https://eos.com/products/crop-monitoring/) is a satellite-based precision agriculture platform developed by EOS Data Analytics. It empowers farmers, agronomists, consultants, insurance firms, and agritech businesses with remote field monitoring through high-resolution satellite imagery and integrated analytics solutions. The platform consolidates diverse agricultural data in one dashboard — including vegetation indices (such as NDVI, NDRE, MSAVI, ReCI, NDMI, and 15+ custom indices), soil moisture, elevation maps, weather forecasts, and historical weather data. 
+Apart from satellite and weather data, users benefit from actionable visual reports and recommendations like vegetation and productivity maps, risk alerts, and a field leaderboard for comparative tracking across multiple fields. As a result, users get a scalable, data‑rich platform to optimize crop performance, reduce input waste, support remote decision‑making, and enable sustainable precision agriculture globally.
+
+
+### Key Features
+
+
+- [Software for Precision Farming](https://eos.com/products/crop-monitoring/key-functions/): Cloud-based agriculture software product that turns satellite data into practical insights for precision field management, spotting farming patterns and potential risks unseen by the naked eye.
+- [Satellite images for agriculture](https://eos.com/products/crop-monitoring/satellite-images-for-agriculture/): Describes the main characteristics of satellite images that we provide and common uses in farming. 
+- [NDVI imagery](https://eos.com/make-an-analysis/ndvi/): NDVI imagery helps farmers identify underperforming field areas, adjust field operation, and maximize returns.
+- [VRA maps](https://eos.com/products/crop-monitoring/vra-maps/): Variable-rate application maps based on satellite imagery, vegetation indices, and elevation or yield data.
+- [Agricultural Weather](https://eos.com/products/crop-monitoring/key-functions/weather-analytics/): Get access to weather parameters for the exact field: historical data and 14-day hourly forecast for agriculture. 
+- [Team management](https://eos.com/products/crop-monitoring/key-functions/team-management/): Share access to the precision agriculture platform with team members, assign tasks, and manage their completion.
+- [Scouting](https://eos.com/products/crop-monitoring/key-functions/scouting-app/):  Perform crop scouting through software and app: send scouts to exact field spots and collect reports containing photos directly from the fields.
+- [EOSDA Crop Monitoring White Label](https://eos.com/products/crop-monitoring/white-label/): Promote and customize the EOSDA Crop Monitoring White Label platform for businesses to sell precision agriculture solutions under their own brand.
+
+
+### Solutions by Role
+
+
+- [Food Producers](https://eos.com/products/crop-monitoring/food-producers/): Provide satellite-driven precision agriculture solutions to enhance sustainable food production and crop management.
+- [NGOs](https://eos.com/products/crop-monitoring/non-profits/): Provide satellite data tools and solutions to help NGOs monitor and promote sustainable agriculture and environmental protection.
+- [Banks and Financial Institutions](https://eos.com/products/crop-monitoring/banks/): Provide satellite and AI-driven data solutions to banks for agricultural loan risk assessment and insurance.
+- [Telecom](https://eos.com/products/crop-monitoring/telecom/): Provide telecom companies with satellite-based precision agriculture tools to enhance farm monitoring, management, and sustainability.
+- [Input Suppliers](https://eos.com/products/crop-monitoring/input-suppliers/): Provide satellite crop monitoring solutions for agricultural input suppliers to optimize sales, transparency, and field management.
+- [Developers and IT Companies](https://eos.com/products/crop-monitoring/it-companies/): Provide IT companies with satellite data APIs, white label solutions, and custom agri-analytics for crop monitoring and business growth.
+- [Insurance Companies](https://eos.com/products/crop-monitoring/insurance-companies/): Provide satellite-based crop monitoring solutions to improve risk assessment and claims validation for agricultural insurance companies.
+- [Crop Advisors and Agriculture Consultants](https://eos.com/products/crop-monitoring/agriculture-consulting/): Offer satellite-based precision agriculture software and consulting solutions for crop monitoring and farm advisory services.
+- [Agriculture Cooperatives](https://eos.com/products/crop-monitoring/cooperatives/): Provide satellite-based crop monitoring solutions to optimize resource use and decision-making for agricultural cooperatives.
+
+
+### Crop Management Guide
+
+
+- [Potatoes Growing Guide by Growth Stage](https://eos.com/crop-management-guide/potato-growth-stages/): Potato growing cycle description by BBCH stages and possibilities of satellite technologies and the EOSDA Crop Monitoring precision agriculture platform in supporting potato development at each stage.
+- [Tomatoes Growing Guide by Growth Stage](https://eos.com/crop-management-guide/tomato-growth-stages/): Tomato growing cycle description by BBCH stages and possibilities of satellite technologies and the EOSDA Crop Monitoring precision agriculture platform in supporting tomato development at each stage.
+- [Sunflower Growing Guide by Growth Stage](https://eos.com/crop-management-guide/sunflower-growth-stages/): Sunflower growing cycle description by BBCH stages and possibilities of satellite technologies and the EOSDA Crop Monitoring precision agriculture platform in supporting sunflower development at each stage.
+- [Rice Growing Guide by Growth Stage](https://eos.com/crop-management-guide/rice-growth-stages/): Rice growing cycle description by BBCH stages and possibilities of satellite technologies and the EOSDA Crop Monitoring precision agriculture platform in supporting rice development at each stage.
+- [Soybeans Growing Guide by Growth Stage](https://eos.com/crop-management-guide/soybean-growth-stages/): Soybeans growing cycle description by BBCH stages and possibilities of satellite technologies and the EOSDA Crop Monitoring precision agriculture platform in supporting soybeans development at each stage.
+- [Wheat Growing Guide by Growth Stage](https://eos.com/crop-management-guide/wheat-growth-stages/): Wheat growing cycle description by BBCH stages and possibilities of satellite technologies and the EOSDA Crop Monitoring precision agriculture platform in supporting wheat development at each stage.
+- [Corn Growing Guide by Growth Stage](https://eos.com/crop-management-guide/corn-growth-stages/): Corngrowing cycle description by BBCH stages and possibilities of satellite technologies and the EOSDA Crop Monitoring precision agriculture platform in supporting corn development at each stage.
+
+
+### Documentation / User guide
+
+
+- [EOSDA Crop Monitoring UserGuide](https://eos.com/user-guide/crop-monitoring/): EOSDA Crop Monitoring UserGuide aims to understand how the software works, what its key features are, and how it helps manage agricultural practices.
+- [EOSDA Crop Monitoring UserGuide Videos](https://eos.com/user-guide/crop-monitoring/video-guide/): Check video guides to understand how to use the main software features and get familiar with EOSDA Crop Monitoring’s interface.
+- [Field Monitoring](https://eos.com/user-guide/crop-monitoring/fields/): Learn how to add, edit, and manipulate a field on EOSDA Crop Monitoring, as well as available information presented on the field polygon.
+
+
+### Case Studies
+
+
+- [AgriTech Market Overview And Trends For 2025-2030](https://eos.com/blog/agritech-market-overview-and-trends-for-2025-2030/): The most prominent agritech trends for farmers for the 2025–2030 years. 
+- [Satellite Monitoring: Trump Card Of Agri Consultants](https://eos.com/blog/satellite-monitoring-trump-card-of-agri-consultants/): Ways satellite-driven crop monitoring analytics assists agricultural consultants in achieving remarkable results with their clients.
+- [Satellite Imaging For Microbiological Crop Solutions](https://eos.com/blog/satellite-imaging-for-microbiological-crop-solutions/): How input suppliers can use EOSDA’s analytical and visual data outputs as evidence for assessing and demonstrating to their clients the increased development of crops as a result of using their solutions.
+- [Satellite Monitoring To Reduce NPK Fertilizer](https://eos.com/blog/satellite-monitoring-to-reduce-npk-fertilizer/): Empowering an agriconsultant company to help its clients control fertilizer application and increase operational efficiency using the EOSDA Crop Monitoring agriculture platform.
+- [Satellite Analytics For Water Use Efficiency Services](https://eos.com/blog/satellite-analytics-for-water-use-efficiency-services/): Benefits from using satellite imagery analytics to help agribusinesses increase water efficiency.
+- [Cotton Yield Estimation In Texas: Proof Of Concept](https://eos.com/blog/cotton-yield-estimation-in-texas-proof-of-concept/): How farmers and agribusinesses can predict their cotton yield using EOSDA’s satellite monitoring solutions.
+- [Satellite Monitoring Determines Sugarcane Loss Causes](https://eos.com/blog/satellite-monitoring-determines-sugarcane-loss-causes/): How to determine the causes of decline in sugarcane production and how farmers can avoid them.
+
+
+## EOSDA LandViewer
+
+
+> The [EOSDA LandViewer platform](https://eos.com/landviewer/) is a powerful online tool for accessing, visualizing, and analyzing satellite imagery. Users can explore both recent and historical data, apply over 20 vegetation and spectral indices, create custom band combinations, and run time series analysis to track changes. Key features include image comparison, change detection, clustering, and time-lapse animation.
+
+
+Supported satellite sources include Sentinel-1, Sentinel-2, Landsat 7/8/9, MODIS, and high-resolution commercial providers — along with a broader selection of other satellite datasets, offering versatile solutions for industries such as agriculture, forestry, environmental monitoring, and urban planning.
+
+
+### High-resolution satellite images
+
+
+> On the EOSDA LandViewer platform, users can browse and purchase premium, [high-resolution satellite imagery](https://eos.com/products/high-resolution-images/) through an integrated marketplace. Archive images date back to 2006, and on‑demand tasking delivers the latest captures at resolutions down to 0.3 m per pixel. Pricing starts from $1.70 per km², depending on resolution and sourcing options. The platform supports complex analytical workflows with previews, filtering, and instant delivery for urban planning, construction, forestry, environmental monitoring, insurance, and agriculture.
+
+
+The list of the available high-resolution satellite imagery providers includes Beijing-3N, Beijing-3A, SuperView Neo-1, SuperView-2, SuperView-1, KOMPSAT-3A, KOMPSAT-3, KOMPSAT-2, Gaofen-7, Gaofen-2, Gaofen-1, Gaofen-6, TripleSat, and Ziyuan-3.
+
+
+### Available satellite images
+
+
+- [Sentinel-2 satellite images](https://eos.com/find-satellite/sentinel-2/): Explore and analyze Sentinel‑2 imagery (available since 2015) with multispectral bands, indices, and change detection tools.
+- [Sentinel-1 satellite images](https://eos.com/find-satellite/sentinel-1/): Access Sentinel-1 radar imagery (available since 2014) to monitor surface deformations and land movements with high temporal resolution.
+- [Landsat 9 satellite images](https://eos.com/find-satellite/landsat-9/): Access Landsat 9 imagery (available since February 2022) to track land surface changes with enhanced spectral data and advanced analysis capabilities.
+- [Landsat 8 satellite images](https://eos.com/find-satellite/landsat-8/): Access and analyze Landsat 8 imagery (available since 2013) using spectral indices, custom bands, and time-series tools for environmental monitoring.
+- [Landsat 7 satellite images](https://eos.com/find-satellite/landsat-7/): Explore Landsat 7 imagery (available since 1999) to monitor land surface changes with advanced analytical tools and multispectral data.
+- [MODIS satellite images](https://eos.com/find-satellite/modis/): Access MODIS imagery (available since 2000) to analyze large-scale environmental changes using spectral bands, indices, and time-series tools.
+- [Find more satellites](https://eos.com/find-satellite/): Explore a comprehensive archive of satellite imagery on EOSDA LandViewer, featuring a wide range of satellites for diverse Earth observation needs.
+
+
+### Areas of application
+
+
+> EOSDA LandViewer serves a wide range of industries by providing satellite imagery and analytical tools tailored to support diverse operational needs and improve decision-making.
+
+
+- [Forestry Monitoring Software](https://eos.com/forest-monitoring/): With EOSDA LandViewer, you can remotely assess forest health, detect deforestation, and ensure compliance with environmental regulations (including EUDR) using satellite imagery and advanced analytics.
+- [Deforestation Monitoring](https://eos.com/deforestation-monitoring/): Use EOSDA LandViewer’s satellite imagery and analytics to monitor forest loss caused by natural disasters and illegal activities, detect unauthorized logging early, track legal deforestation, and ensure compliance with regulations like EUDR for sustainable forest management.
+- Agriculture: Utilize satellite imagery to monitor crop health, optimize irrigation, and detect pests, enabling informed decisions for improved yields and resource management.
+- Environmental and Climate Change Monitoring: Leverage satellite imagery to track environmental changes, such as deforestation and ice cover loss, and monitor climate change impacts like desertification and rising sea levels.
+- Construction and Urban Planning: Access real-time and historical satellite images to assess land use, plan infrastructure projects, and monitor urban expansion, facilitating efficient urban development.
+- Other Industries: Benefit from satellite data to monitor environmental impacts, optimize operations, and ensure compliance with regulations across various sectors, including energy, mining, and insurance.
+
+
+## Other useful resources
+
+
+- [FAQ Center](https://eos.com/faq/): Provide detailed FAQs and support for EOS Data Analytics products, including satellite imagery and crop monitoring services.
+- [Blog](https://eos.com/blog/): Updates from EOSDA and highlights from the global GIS community. Round-up articles, scientific research, and innovation reviews.
+- [Case Studies](https://eos.com/blog-tags/case-study/): Showcase studies demonstrating EOSDA's remote sensing and data analytics applications in agriculture and environmental monitoring.
+- [Stories of impact](https://eos.com/blog-tags/environmental-studies/): Discover stories of impact on EOSDA’s blog highlighting satellite’s role in supporting communities, preserving ecosystems, and addressing social and economic impacts of environmental change.

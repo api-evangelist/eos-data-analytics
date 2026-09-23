@@ -1,0 +1,104 @@
+generated: '2026-09-23'
+method: derived
+source: the pre-flight dossier, apis.yml pointers, spec servers, well-known, vendors -- nothing fetched here
+generator: derive-hosts.py
+summary:
+  hosts: 7
+  own: 6
+  other_domain: 1
+  platform: 0
+  roles:
+  - api
+  - docs
+  - identity
+  - other
+  - website
+hosts:
+- host: api-connect.eos.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: eos.com
+  role: other
+  relation: own
+- host: api.eos.com
+  found_by:
+  - contract-discovery
+  types: []
+  serves: []
+  registrable_domain: eos.com
+  role: api
+  relation: own
+- host: crop-monitoring.eos.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types:
+  - Login
+  serves: []
+  registrable_domain: eos.com
+  role: identity
+  relation: own
+- host: doc.api-connect.eos.com
+  found_by:
+  - probed
+  - site-links
+  - contract-discovery
+  - well-known
+  types: []
+  serves: []
+  registrable_domain: eos.com
+  role: docs
+  relation: own
+- host: doc.eos.com
+  found_by:
+  - pointer
+  - probed
+  - site-links
+  - docs-index
+  - well-known
+  types:
+  - Documentation
+  - APIReference
+  serves:
+  - docs
+  registrable_domain: eos.com
+  role: docs
+  relation: own
+- host: doc.eos.com:443
+  found_by:
+  - docs-index
+  types: []
+  serves:
+  - docs
+  registrable_domain: eos.com:443
+  role: docs
+  relation: other-domain
+- host: eos.com
+  found_by:
+  - pointer
+  - probed
+  - contract-discovery
+  - well-known
+  - vendor-detect
+  types:
+  - Security
+  - Newsroom
+  - Website
+  - Blog
+  - TermsOfService
+  - PrivacyPolicy
+  - Support
+  serves:
+  - cdn
+  vendor: cloudfront
+  registrable_domain: eos.com
+  role: website
+  relation: own

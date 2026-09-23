@@ -1,23 +1,84 @@
 aid: eos-data-analytics
+
 name: EOS Data Analytics
-description: 'EOS Data Analytics is a company surfaced via the API Evangelist harvest backlog (source:
-  space) and added to the network as a stub for full-pipeline profiling.'
+
+image: https://eos.com/wp-content/uploads/2022/12/Fb-1080x1080-min.png
+
+description: 'EOS Data Analytics (EOSDA) provides satellite imagery and analytics platforms for agriculture, forestry, infrastructure, and environmental monitoring. Their solutions include LandViewer for visualizing satellite data, Crop Monitoring for precision agriculture, and EOS RayVision for advanced visualisation. The company offers a Satellite Data API that gives programmatic access to high‑resolution imagery, analytics, and AI‑driven insights, serving sectors such as finance, insurance, and disaster response.'
+
 url: https://raw.githubusercontent.com/api-evangelist/eos-data-analytics/refs/heads/main/apis.yml
+
 x-type: company
+
 x-source: harvest:space
-x-tier: stub
-x-tier-reason: harvest
+
+x-tier: profiled
+x-tier-reason: enrichment pass 2026-09-23 (modular-v1; was harvest)
+
 specificationVersion: '0.20'
+
 created: '2026-09-23'
+
 modified: '2026-09-23'
+
 tags:
 - Company
-apis: []
+- Satellite
+- Analytics
+- Agriculture
+- Environmental
+
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+
 common:
+- type: LLMsTxt
+  url: llms/eos-data-analytics-llms.txt
+- type: Hosts
+  url: hosts/eos-data-analytics-hosts.yml
+- type: Vendors
+  url: vendors/eos-data-analytics-vendors.yml
+- type: Security
+  url: https://eos.com/industries/security/
+- type: Newsroom
+  url: https://eos.com/company/newsroom/
+- type: Login
+  url: https://crop-monitoring.eos.com/login
+- type: DomainSecurity
+  url: security/eos-data-analytics-domain-security.yml
 - type: Website
   url: https://eos.com/
+
+- type: Blog
+  url: https://eos.com/blog/
+- type: TermsOfService
+  url: https://eos.com/terms-of-use/
+- type: PrivacyPolicy
+  url: https://eos.com/privacy-policy/
+
+- type: Documentation
+  url: https://doc.eos.com/
+- type: APIReference
+  url: https://doc.eos.com/docs/quickstart/
+- type: Support
+  url: https://eos.com/contact-us/
+
+apis: []
+
+x-coverage:
+  state: unreadable
+  reason: js-rendered-docs
+  detail: Documentation at https://doc.eos.com/ is rendered via Docusaurus and provides no machine‑readable OpenAPI spec.
+  evidence:
+    - url: https://doc.eos.com/
+      status: 200
+  checked: 2026-09-23
+x-enrichment:
+  date: '2026-09-23'
+  status: enriched
+  artifacts_added: 7
+  pass: modular-v1
+  engine: identity=local,contract=local,surfaces=local,docs=local
